@@ -42,3 +42,4 @@ The power of Fluid is the usage of ViewHelpers. There are many of them, for all 
    Switch
    Then
    Translate
+   Variable
